@@ -1,13 +1,13 @@
 *{ margin: 0; padding: 0; box-sizing: border-box; }
-body{font-family: 'Oswald';}
+body{}
 .container{  margin: 0 auto;}
 li{ list-style: none;}
 header{ background-color: #303030; height: 102px;width: 100%;}
 
 
 
-
-header .container{ display: flex; justify-content: space-between}
+.banner{ width: 100%; min-height: 692px;  background-repeat: no-repeat; background-size: cover; background-position: center;position: relative;}
+ header .container1{ display: flex; justify-content: space-between;}
 .logo{
      align-items: left;
     margin-left:80px;
@@ -15,7 +15,13 @@ header .container{ display: flex; justify-content: space-between}
     padding: 3px;
 }
 .navigation ul{ display: flex; column-gap:49px;list-style:none;font-family: 'Oswald';font-size: 25px;font-style: regular;
-    padding: 5px;margin-top: 36px;align-items: right;margin-right: 15px;
+    padding: 5px;margin-top: 30px;align-items: right;margin-right: 55px;
 }
 .navigation ul li a{ color: #fff; text-decoration: none;}
 .navigation ul li a:hover{ color: #91c33e;}
+
+.title{margin-top: 200px;font-size: 110px;color: #fff;font-family: 'Oswald';margin-left: 80px;}
+
+
+
+
