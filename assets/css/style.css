@@ -22,7 +22,7 @@ header{ background-color: #303030; height: 102px;width: 100%;}
 
 .title{margin-top: 270px;font-size: 100px;color: #fff;font-family: 'Oswald';margin-left: 83px;}
 
-.section2{min-height: 974px;width: 100%;background-color: #e8631c;position: relative;text-align: center;padding: 2px;align-content: center;content: "";
+.section2{min-height: 976px;width: 100%;background-color: #e8631c;position: relative;text-align: center;padding: 2px;align-content: center;content: "";
     }
 
 .heading2{color: #fff;font-family: 'Oswald';font-style: bold;font-size: 75px;position: relative;margin-top: 40px;font-style: Bold;padding: 5px;align-content: center;}
@@ -35,15 +35,233 @@ header{ background-color: #303030; height: 102px;width: 100%;}
 .colimage1{height: 324px;width: 372px;}
 .colimage2{height: 324px;width: 372px;}
 .colimage{height: 324px;width: 372px;}
-.card1 h2{position: relative;margin-top: 32px;color: #fff;font-family: 'Oswald';}
+.card1 h2{position: relative;margin-top: 25px;color: #fff;font-family: 'Oswald'; font-size: 37px;}
 .card1 p{position: relative;color: #fff; font-family: 'Montserrat';font-size: 22px;margin-top: 15px;}
-.card2 h2{position: relative;margin-top: 32px;color: #fff;font-family: 'Oswald';}
+.card2 h2{position: relative;margin-top: 25px;color: #fff;font-family: 'Oswald'; font-size: 37px;}
 .card2 p{position: relative;color: #fff; font-family: 'Montserrat';font-size: 22px;margin-top: 15px;}
-.card3 h2{position: relative;margin-top: 32px;color: #fff;font-family: 'Oswald';}
+.card3 h2{position: relative;margin-top: 25px;color: #fff;font-family: 'Oswald'; font-size: 37px;}
 .card3 p{position: relative;color: #fff; font-family: 'Montserrat';font-size: 22px;margin-top: 15px;}
 
+.container2 p{color: #fff;font-family: 'Montserrat';font-size: 30px;margin-left: 82px;}
+
+.btn{
+    position: relative;
+    background-color: #e8631c;
+    max-width: 322px;
+    max-height: 65px;
+   text-align: center;
+    margin-top: 18px;
+    border-radius: 4px;
+
+}
+.btn1{
+    text-decoration: none;
+    color: #fff;
+    font-size: 29px;
+    font-family: 'Oswald';
+}
+
+.section3{min-height: 1000px;width: 100%;background-color:#303030;position: relative;text-align: center;padding: 2px;align-content: center;content: "";
+}
+.heading3{color: #fff;font-family: 'Oswald';font-style: bold;font-size: 75px;position: relative;margin-top: 85px;font-style: Bold;padding: 5px;align-content: center;}
+.p2{color: #fff;font-size: 30px; font-family: 'Montserrat';position: relative;margin-top: 30px;padding: 4px;}
 
 
+.col2{display: flex;margin-top: 60px;column-gap: 60px;width: 100%;align-items: center;}
+.card4{
+    background-color: #e8631c;
+    border-radius: 8px;
+    width: 372px;
+    height: 493px;
+   
+}
+.card5{
+    background-color: #e8631c;
+    border-radius: 8px;
+    width: 372px;
+    height: 493px;
+   
+}
 
+.card6{
+    background-color: #e8631c;
+    border-radius: 8px;
+    width: 372px;
+    height: 493px;
+    
+}
 
+.logo3{
+    margin-top: 65px;
+    padding: 3px;
+    width: 112;
+    height: 132;
+}
+.card4 h3{position: relative;margin-top: 32px;color: #fff;font-family: 'Oswald'; font-size: 37px;}
+.card4 p{position: relative;margin-top: 30px;color: #fff; font-family: 'Montserrat';; font-size: 22px;}
 
+.card5 h3{position: relative;margin-top: 32px;color: #fff;font-family: 'Oswald'; font-size: 37px;align-content: center;}
+.card5 p{position: relative;margin-top: 30px;color: #fff; font-family: 'Montserrat';; font-size: 22px;}
+
+.card6 h3{position: relative;margin-top: 32px;color: #fff;font-family: 'Oswald'; font-size: 37px;}
+.card6 p{position: relative;margin-top: 30px;color: #fff; font-family: 'Montserrat';; font-size: 22px;align-content: center;}
+
+.btn4{
+  position: relative;
+    background-color: #303030;
+    max-width: 322px;
+    max-height: 65px;
+   text-align: center;
+    margin-top: 18px;
+    border-radius: 4px;
+    margin-left: 25px;
+   
+
+}
+.b1{
+    text-decoration: none;
+    color: #fff;
+    font-size: 29px;
+    font-family: 'Oswald';
+}
+
+.btn5{
+    position: relative;
+      background-color: #303030;
+      max-width: 322px;
+      max-height: 65px;
+     text-align: center;
+      margin-top: 18px;
+      border-radius: 4px;
+      margin-left: 25px;
+     
+  
+  }
+  .b2{
+      text-decoration: none;
+      color: #fff;
+      font-size: 29px;
+      font-family: 'Oswald';
+  }
+
+  .btn6{
+    position: relative;
+      background-color: #303030;
+      max-width: 322px;
+      max-height: 65px;
+     text-align: center;
+      margin-top: 18px;
+      border-radius: 4px;
+      margin-left: 25px;
+     
+  
+  }
+  .b3{
+      text-decoration: none;
+      color: #fff;
+      font-size: 29px;
+      font-family: 'Oswald';
+  }
+
+  .section4{
+    background-color: #e8631c;
+    width: 100%;
+    min-height: 975px;
+   
+   display: flex;
+  }
+  .img2{
+    width: 50%;
+    min-height: 975px;
+  }
+
+   .col3 h2{
+    position: relative;
+    margin-top: 320px;
+    font-family: 'Oswald';
+    font-size: 75px;
+    font-style: bold;
+    margin-left: 80px;
+    color: #fff;
+  }
+
+  .col3 p{
+  position: relative;
+    margin-top: 65px;
+    margin-left: 80px;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    color: #fff;
+  }
+  .btn7{
+    position: relative;
+      background-color: #303030;
+      max-width: 322px;
+      max-height: 65px;
+     text-align: center;
+      margin-top: 70px;
+      border-radius: 4px;
+      margin-left: 25px;
+     
+  
+  }
+  .b4{
+      text-decoration: none;
+      color: #fff;
+      font-size: 29px;
+      font-family: 'Oswald';
+  }
+
+  .section5{
+    background-color: #e8631c;
+    width: 100%;
+    min-height: 975px;
+  
+   display: flex;
+  }
+
+  .col4{
+    width:50%;
+    padding: 20px;
+  }
+  .col5 h2{
+    position: relative;
+    margin-top: 320px;
+    font-family: 'Oswald';
+    font-size: 75px;
+    font-style: bold;
+    margin-left: 80px;
+    color: #fff;
+  }
+
+  .col5 p{
+  position: relative;
+    margin-top: 65px;
+    margin-left: 80px;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    color: #fff;
+  }
+  .btn8{
+    position: relative;
+      background-color: #303030;
+      max-width: 322px;
+      max-height: 65px;
+     text-align: center;
+      margin-top: 70px;
+      border-radius: 4px;
+      margin-left: 25px;
+     
+  
+  }
+  .b5{
+      text-decoration: none;
+      color: #fff;
+      font-size: 29px;
+      font-family: 'Oswald';
+  }
+  
+  .img3{
+    width: 50%;
+    min-height: 975px;
+  }
