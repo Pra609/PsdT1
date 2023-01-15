@@ -6,7 +6,7 @@ header{ background-color: #303030; height: 102px;width: 100%;}
 
 
 
-.banner{ width: 100%; min-height: 692px;  background-repeat: no-repeat; background-size: cover; background-position: center;position: relative;}
+.banner{ width: 100%; min-height: 796px;  background-repeat: no-repeat; background-size: cover; background-position: center;position: relative;}
  header .container1{ display: flex; justify-content: space-between;}
 .logo{
      align-items: left;
@@ -20,7 +20,22 @@ header{ background-color: #303030; height: 102px;width: 100%;}
 .navigation ul li a{ color: #fff; text-decoration: none;}
 .navigation ul li a:hover{ color: #91c33e;}
 
-.title{margin-top: 200px;font-size: 100px;color: #fff;font-family: 'Oswald';margin-left: 80px;}
+.title{margin-top: 270px;font-size: 100px;color: #fff;font-family: 'Oswald';margin-left: 83px;}
+
+.section2{min-height: 974px;width: 100%;background-color: #e8631c;position: relative;text-align: center;padding: 2px;align-content: center;content: "";
+    }
+
+.heading2{color: #fff;font-family: 'Oswald';font-style: bold;font-size: 75px;position: relative;margin-top: 40px;font-style: Bold;padding: 5px;align-content: center;}
+.p1{color: #fff;font-size: 30px; font-family: 'Montserrat';position: relative;margin-top: 40px;padding: 4px;}
+
+.col1{display: flex;margin-top: 40px;column-gap: 60px;width: 100%;}
+ .card1{height: 493px;width: 372px;background-color: #303030;position: relative;display:flex;align-content: center;}
+ .card2{height: 493px;width: 372px;background-color: #303030;position: relative;}
+.card3{height: 493px;width: 372px;background-color: #303030;position: relative;}
+.colimage1{height: 324px;width: 372px;}
+.colimage2{height: 324px;width: 372px;}
+.colimage{height: 324px;width: 372px;}
+
 
 
 
