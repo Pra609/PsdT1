@@ -419,10 +419,127 @@ footer{
   background-color: #303030;
   width: 100%;
   min-height: 480px;
+  display: flex;
+}
+
+footer .f1{
+  width: 558px;
+  min-height: 480px;
+}
+.f1 h4{
+  font-family: 'Oswald';
+  font-size: 33px;
+  color: #fff;
+  margin-top: 100px;
+  margin-left: 52px
+  
+  
+}
+
+.f1 p{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color:#fff ;
+  margin-left: 52px;
+  margin-top: 60px;
+ 
+}
+
+.f1 img{
+  height: 50px;
+  width: 232px;
+  margin-top: 40px;
+  margin-left: 52px;
+}
+
+footer .f2{
+  width: 370px;
+  min-height: 480px;
+  margin-left: 300px;
+  
+}
+
+.f2 h4{
+  font-family: 'Oswald';
+  font-size: 33px;
+  color: #fff;
+  margin-top: 100px;
+  margin-left: 50px
+  
+  
+}
+.f2 h6{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: #fff;
+  margin-top: 60px;
+  margin-left: 50px
+}
+.f2 h5{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: #fff;
+  margin-top: 20px;
+  margin-left: 50px
 }
 
 
+footer .f3{
+  width: 300px;
+  min-height: 480px;
+  
+  
+}
 
 
+.f3 h4{
+  font-family: 'Oswald';
+  font-size: 33px;
+  color: #fff;
+  margin-top: 100px;
+  margin-left: 50px
+  
+  
+}
 
+.f3 h6{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: #fff;
+  margin-top: 60px;
+  margin-left: 50px
+}
 
+.f3 h5{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: #fff;
+  margin-top: 20px;
+  margin-left: 50px
+}
+
+.f4 h4{
+  font-family: 'Oswald';
+  font-size: 33px;
+  color: #fff;
+  margin-top: 100px;
+  margin-left: 50px
+  
+  
+}
+
+.f4 h6{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: #fff;
+  margin-top: 60px;
+  margin-left: 50px
+}
+
+.f4 h5{
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: #fff;
+  margin-top: 20px;
+  margin-left: 50px
+}
